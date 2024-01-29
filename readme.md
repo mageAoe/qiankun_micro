@@ -2,7 +2,7 @@
 
 ### micro_app_demo1
 
-> react 内部
+> react 内部  - **完成**
 
 ### micro_app_demo2
 
@@ -10,8 +10,8 @@
 
 ### micro_app_demo3
 
-> vue  内部
+> vue  内部  - **完成**
 
 ### micro_app_demo4
 
-> vue  外部
+> vue  外部  - **完成**
