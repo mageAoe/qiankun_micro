@@ -26,7 +26,7 @@
               <el-icon><setting /></el-icon>
               <span>内部调用mirco - react</span>
             </el-menu-item>
-            <el-menu-item index="7">
+            <el-menu-item index="7" @click="router.push('/micro-app/micro-app-demo2/home')">
               <el-icon><setting /></el-icon>
               <span>外部调用mirco - react</span>
             </el-menu-item>

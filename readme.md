@@ -6,7 +6,7 @@
 
 ### micro_app_demo2
 
-> react 外部
+> react 外部 - **完成**
 
 ### micro_app_demo3
 
